@@ -13,6 +13,7 @@ import com.lib.prettygirls.R;
  * Created by weijinqian on 16/8/3.
  */
 public class ShortCutUtil {
+
     private ShortCutUtil() {
         throw new Error("Do not need instantiate!");
     }
